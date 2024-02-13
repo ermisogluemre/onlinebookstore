@@ -9,6 +9,7 @@ public class Address implements Serializable {
     private String addressLine3;
     private String addressLine4;
     private String addressLine5;
+    private String addressLine6;
     private String city;
     private String state;
     private String country;
