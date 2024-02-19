@@ -9,6 +9,7 @@ public class User implements Serializable {
     private String password;
     private String firstName;
     private String lastName;
+    private String middleName;
     private Long phone;
     private String address;
     private List<UserRole> roles;
