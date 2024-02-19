@@ -1,5 +1,5 @@
 package com.bittercode.model;
 
 public enum UserRole {
-    CUSTOMER, SELLER, WHOLESELLER, CUSTOMERSERVICE
+    CUSTOMER, SELLER, CUSTOMERSERVICE, WHOLESELLER
 }
