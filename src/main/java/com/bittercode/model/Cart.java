@@ -6,6 +6,7 @@ public class Cart implements Serializable {
 
     private Book book;
     private int quantity;
+    private Sting label;
 
     public Cart(Book book, int quantity) {
         this.book = book;
