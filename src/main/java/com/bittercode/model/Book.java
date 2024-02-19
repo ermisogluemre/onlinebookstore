@@ -5,10 +5,7 @@ import java.io.Serializable;
 public class Book implements Serializable {
 
     private String barcode;
-<<<<<<< HEAD
     private String barcode2;
-=======
->>>>>>> branch 'Feature_3' of https://github.com/ermisogluemre/onlinebookstore.git
     private String barcode3;
     private String name;
     private String author;
